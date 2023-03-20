@@ -3,4 +3,5 @@
 <h3 align="center">Novice developer on .NET from Russia</h3>
 
 ### 👨‍💻: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavfed&theme=discord_old_blurple)
