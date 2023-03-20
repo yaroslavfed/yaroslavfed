@@ -4,4 +4,4 @@
 
 ### 👨‍💻: About Me :
 I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer  from India.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavfed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
