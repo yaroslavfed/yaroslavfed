@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Yaroslav 👋</h1>
 <h3 align="center">Novice programmer on .NET from Russia</h3>
 <div id="socials" align="center">
+	<a href="https://t.me/be_mortal">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
 	<a href="linkedin-url">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="twitter-url">
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-	</a>
-	<a href="https://t.me/be_mortal">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
 
