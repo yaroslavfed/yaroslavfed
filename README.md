@@ -4,7 +4,7 @@
 	<a href="https://t.me/be_mortal">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
-	<a href="vkontacte-url">
+	<a href="https://vk.com/id347581283">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="twitter-url">
