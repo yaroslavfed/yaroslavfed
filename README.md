@@ -23,5 +23,5 @@
 <div id="stat" align="center">
 <img height="190" src="http://github-readme-streak-stats.herokuapp.com?user=yaroslavfed&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%2Fn%5B%2FY%5D" alt="yaroslavfed" />
 <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaroslavfed&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%2Fn%5B%2FY%5D" alt="yaroslavfed"/>
-<img width="820" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavfed&theme=tokyonight" alt="yaroslavfed" />
+<img width="815" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavfed&theme=tokyonight" alt="yaroslavfed" />
 </div>
