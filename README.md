@@ -14,7 +14,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-	<h2 align="center">My main skills:</h2>
+	<h2>My main skills:</h2>
 	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 	</a>
@@ -27,7 +27,7 @@
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
-	<h2 align="center">I've had a bit of practice:</h2>
+	<h2>I've had a bit of practice:</h2>
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 	</a> 
@@ -53,15 +53,13 @@
 	<a href="https://www.php.net" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 	</a> 
-	<h2 align="center">Worked with databases:</h2>
+	<h2>Worked with databases:</h2>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 	</a>
-
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 	</a>
-
 	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 	</a>
