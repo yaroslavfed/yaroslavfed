@@ -68,10 +68,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavfed&theme=tokyonight&utcOffset=8" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavfed&theme=tokyonight" alt=""/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yaroslavfed&theme=tokyonight&no-frame=true&column=-1)](https://github.com/yaroslavfed/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yaroslavfed&theme=tokyonight&no-frame=true&column=-1&margin-w=5)](https://github.com/yaroslavfed/github-profile-trophy)
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+hope+that+we+can+cooperate)](https://git.io/typing-svg)
-
 
 
