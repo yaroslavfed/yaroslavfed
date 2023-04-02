@@ -26,7 +26,7 @@
 
 ### My main skills:
 
-<a href="https://dotnet.microsoft.com/" title="dotNet" target="_blank" rel="noreferrer">
+<a href="https://dotnet.microsoft.com/" title="dotNet">
     <img src="dotnet.png" alt="dotnet" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
