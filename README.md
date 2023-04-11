@@ -18,7 +18,7 @@
 
     - 🕗 I am now actively learning C#
     - 📚 I try myself in working with ASP.NET
-    - 🌴 I specialize in backend, but I wrote frontend
+    - 🌴 I specialize in the backend, but I had to write a frontend
     - 👨‍🔬 I know mathematics and computational programming quite well
 
 
