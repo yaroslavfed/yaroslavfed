@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Yaroslav 👋</h1>
-    <h3>Novice programmer on .NET from Russia</h3>
+    <h3>Junior .NET developer from Russia</h3>
 </div>
 <div id="socials" align="center">
 	<a href="https://t.me/be_mortal">
