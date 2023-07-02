@@ -73,4 +73,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+hope+that+we+can+cooperate)](https://git.io/typing-svg)
 
-
+<p align="center">
+  <a href="https://github.com/yaroslavfed">
+    <img src="https://komarev.com/ghpvc/?username=yaroslavfed&color=blue&style=flat)" />
+  </a>
+</p>
