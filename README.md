@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Yaroslav 👋</h1>
-    <h3>Junior .NET developer from Russia</h3>
+    <h3>Junior .NET developer</h3>
 </div>
 <div id="socials" align="center">
 	<a href="https://t.me/be_mortal">
@@ -16,11 +16,11 @@
 
 ### About me:
 
-    - 🕗 I am now actively learning C#
-    - 📚 I try myself in working with ASP.NET
-    - 🌴 I specialize in the backend, but I had to write a frontend
-    - 👨‍🔬 I know mathematics and computational programming quite well
-
+    - 🎓 I graduated from Novosibirsk State Technical University
+    - ☁ I've been working with ASP.NET
+    - 📡 I have worked with different network protocols such as gRPC, WCF and REST
+    - 💻 I've worked with desktop development, with frameworks like Avalonia and WPF
+    - 🚀 I have developed applications with both an imperative and a reactive approach
 
 ## Languages and Tools:
 
