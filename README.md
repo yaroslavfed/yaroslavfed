@@ -47,7 +47,7 @@
 
 <div>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/>
-	<img src="https://github.com/gilbarbara/logos/blob/main/logos/android-vertical.svg" alt="android "height="40"/> 
+	<img src="https://github.com/gilbarbara/logos/blob/main/logos/kotlin-icon.svg" alt="kotlin" height="40"/> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
 </div>
 
